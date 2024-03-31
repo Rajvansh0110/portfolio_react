@@ -11,7 +11,7 @@
       "key": 2,
       "title": "Portfolio",
       "imageSrc": "work/portfolio.jpg",
-      "description": "It is a Simple portfolio using HTML, CSS and Javascript.",
+      "description": "It is a simple portfolio website created using HTML, CSS, and Javascript..",
       "demo": "https://portfolio-github-6qkm983ec-himanshusinghtaneja0110-gmailcom.vercel.app/",
       "source": "https://github.com/Rajvansh0110/portfolio.github.io"
     },
@@ -19,15 +19,15 @@
       "key": 3,
       "title": "Simple Registration Form",
       "imageSrc": "work/r_f.jpg",
-      "description": "It is a Simple registration form using HTML, CSS.",
+      "description": "It is a simple registration form created with HTML and CSS..",
       "demo": "https://rajvansh0110.github.io/rform.github.io/",
       "source": "https://github.com/Rajvansh0110/rform.github.io/"
     },
     {
       "key": 4,
-      "title": "Boston Price Perdiction Form",
+      "title": "Boston Price Prediction Form",
       "imageSrc": "work/b_p.jpg",
-      "description": "This is a project is frontend part of a ML project.",
+      "description": "This project is the frontend part of an ML project done with HTML and CSS.",
       "demo": "https://rajvansh0110.github.io/form.github.io/",
       "source": "https://github.com/Rajvansh0110/form.github.io"
     }

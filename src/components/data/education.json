@@ -7,7 +7,7 @@
       "endyear": "2025",
       "location": "Khanna Ludhiana, Punjab",
       "Percentage": "7.76 CGP",
-      "imageSrc": "company/GGI.png"
+      "imageSrc": "education/GGI.png"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "endyear": "2021",
       "location": "Daba Road Ludhiana, Punjab",
       "Percentage": "92%",
-      "imageSrc": "company/microsoft.png"
+      "imageSrc": "education/microsoft.png"
     },
     {
       "id": 3,
@@ -27,6 +27,6 @@
       "endyear": "2019",
       "location": "Daba Road Ludhiana, Punjab",
       "Percentage": "90%",
-      "imageSrc": "company/microsoft.png"
+      "imageSrc": "education/microsoft.png"
     }
   ]

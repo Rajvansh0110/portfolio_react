@@ -1,5 +1,5 @@
 import React from "react";
-import experience from "./data/experience.json";
+import education from "./data/education.json";
 
 const Education = () => {
   return (
@@ -10,7 +10,7 @@ const Education = () => {
     <br />
       <div className="container ex" id="education">
         <h1>EDUCATION</h1>
-        {experience.map((data) => {
+        {education.map((data) => {
           return (
             <>
               <div

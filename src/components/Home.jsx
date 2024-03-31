@@ -11,7 +11,7 @@ const Home = () => {
         "Welcome to my profile",
         "My Name is Rajvansh Singh",
         "I'm developer",
-        "Coordinator in Student Coding Club",
+        "Coordinator for the Student Coding Club 'CodeForge'",
       ],
       typeSpeed: 50,
       backSpeed: 50,

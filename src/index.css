@@ -19,6 +19,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* position: fixed; */
 
 }
 
@@ -179,4 +180,136 @@ a {
 
 .contact-icon .items .icons {
   font-size: 2rem;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .home {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .home .left {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .home .right .img img {
+    height: 200px;
+    width: 200px;
+  }
+
+  .ex {
+    width: 100%;
+  }
+
+  .ex-items {
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .skills {
+    width: 100%;
+  }
+
+  .skills .items .item {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .contact-icon {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .contact-icon .items {
+    margin: 10px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo {
+    height: 4em;
+  }
+
+  .home .left {
+    padding: 10px;
+  }
+
+  .home .right .img img {
+    height: 150px;
+    width: 150px;
+  }
+
+  .ex-items {
+    padding: 10px;
+  }
+
+  .skills .items .item {
+    padding: 10px;
+  }
+
+  .contact-icon .items {
+    margin: 5px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav_bar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav_bar .left {
+    margin-bottom: 20px;
+  }
+
+  .nav_bar .right {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .nav_bar .right a {
+    margin: 0 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .nav_bar .left {
+    font-size: 1.5rem;
+  }
+
+  .nav_bar .right a {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) and (max-height: 932px) {
+  .nav_bar {
+    flex-direction: column;
+    align-items: center;
+    /* position: fixed; */
+    width: 100%;
+    z-index: 1000; /* Ensure the navbar is on top */
+  }
+
+  .nav_bar .left {
+    margin-bottom: 20px;
+  }
+
+  .nav_bar .right {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .nav_bar .right a {
+    margin: 0 10px;
+  }
 }
