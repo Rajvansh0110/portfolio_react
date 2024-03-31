@@ -313,3 +313,26 @@ a {
     margin: 0 10px;
   }
 }
+
+@media (max-width: 768px) {
+  /* Education Section */
+  .ex {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ex .ex-items {
+    width: 90%;
+  }
+
+  /* Projects Section */
+  .projects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 10%;
+    /* height: 100vh; Adjust the height as needed */
+  }
+  
+}
