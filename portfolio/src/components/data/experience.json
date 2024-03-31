@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "College": "Gulzar Group of Institutes",
+      "Course": "B.Tech CSE (AI&ML)",
+      "startyear": "2021",
+      "endyear": "2025",
+      "location": "Khanna Ludhiana, Punjab",
+      "Percentage": "7.76 CGP",
+      "imageSrc": "company/GGI.png"
+    },
+    {
+      "id": 2,
+      "College": "Shri Harkrishan Sahib Public Sr. Sec. School",
+      "Course": "Intermediate",
+      "startyear": "2020",
+      "endyear": "2021",
+      "location": "Daba Road Ludhiana, Punjab",
+      "Percentage": "92%",
+      "imageSrc": "company/microsoft.png"
+    },
+    {
+      "id": 3,
+      "College": "Shri Harkrishan Sahib Public Sr. Sec. School",
+      "Course": "Matriculation",
+      "startyear": "2020",
+      "endyear": "2019",
+      "location": "Daba Road Ludhiana, Punjab",
+      "Percentage": "90%",
+      "imageSrc": "company/microsoft.png"
+    }
+  ]
